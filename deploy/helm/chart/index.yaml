@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  kube-resource-report:
+  - apiVersion: v1
+    appVersion: 20.4.3
+    created: 2020-06-29T22:27:59.862232+10:00
+    description: Report Kubernetes cluster and pod resource requests vs usage and
+      generate static HTML
+    digest: 4f9f04c18e9bbc65fc11ccd5f2a322c50de40116a373bf351d6a58199f9da36f
+    home: https://github.com/hjacobs/kube-resource-report.git
+    name: kube-resource-report
+    urls:
+    - https://hjacobs.github.io/helm-charts/kube-resource-report-0.5.0.tgz
+    version: 0.5.0
+generated: 2020-06-29T22:27:59.861812+10:00
